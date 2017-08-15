@@ -13,11 +13,14 @@ It is an unsigned macOS application which is not allowed to run on OSX by defaul
 
 **Supported devices:** Mavic Remote Controller, DJI Goggles
 
+
+**Features:**
 + Set parameters without DJI Assistant
 + Predefinied Normal+ and Sport+ modes
 + Parameters Factory Reset option
 + Firmware Flashing Utility with progress bar actively monitoring the process
 + One click download & decrypt upgrade log file
+
 
 **Links:**
 
@@ -33,4 +36,6 @@ https://github.com/MAVProxyUser/dji_system.bin - Current Archive of dji_system.b
 
 https://nolimitdronez.com - Alternative solution for Windows users with excellent live support.
 
-Thanks to hostile, the_lord, P0V, hdnes, jezzab, coldflake, freaky123, bin4ry and all the Slack team who spent countless effort and time to figure out all the stuff.
+
+
+Thanks to hostile, the_lord, P0V, hdnes, jezzab, coldflake, freaky123, bin4ry and all the Slack members who spent countless effort and time to figure out all the stuff.
