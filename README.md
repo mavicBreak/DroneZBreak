@@ -7,7 +7,7 @@ Change flight controller parameters of DJI Drones and upgrade/downgrade firmware
 
 **Supported macOS:** Sierra (OSX 10.12), El Capitan (OSX 10.11), might work on Yosemite (OSX 10.10)
 
-It is an unsigned macOS application which is not allowed to run on OSX by default. If you have problem with starting the application go to System Preferences > Security & Privacy > and enable the execution of the app.
+`It is an unsigned macOS application which is not allowed to run on OSX by default. If you have problem with starting the application go to System Preferences > Security & Privacy > and enable the execution of the app.`
 
 **Supported drones:** Mavic, Spark, P4P, Inspire 2, might work with other DJI drones
 
