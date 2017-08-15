@@ -1,2 +1,2 @@
 # DroneZBreak
-Change flight controller parameters and flash firmwares natively on OSX
+Change flight controller parameters of DJI Drones and flash firmwares natively on OSX
