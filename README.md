@@ -22,6 +22,7 @@ Change flight controller parameters of DJI Drones and upgrade/downgrade firmware
 + One click download & decrypt upgrade log file
 
 **Note**
+
 DroneZBreak is fail-safe. In case of application crash or bug during the firmware flashing or parameter setting the device is safe. The operation continues on the device itself regardless of the USB cable connection or application state.
 
 **Links:**
