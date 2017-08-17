@@ -1,2 +1,2 @@
-current_version|0.1
-update_path|https://github.com/mavicBreak/DroneZBreak
+current_version|0.2
+update_path|https://github.com/mavicBreak/DroneZBreak/raw/master/DroneZBreak.app.zip
