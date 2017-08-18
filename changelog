@@ -1,3 +1,13 @@
+[v0.3 changelog 18.AUG.2017]
+———————————————————————————-
++ minor fixes
++ debug mode added
+  (once application has started and before connecting the drone
+   press Command + D this will activate debug logging.
+   DZB_log.txt will be saved to your Desktop. You may send it
+   to the developer if requested for troubleshooting)
+   
+   
 [v0.2 changelog 17.AUG.2017]
 ———————————————————————————-
 + several crash fixed
