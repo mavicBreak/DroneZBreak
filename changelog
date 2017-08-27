@@ -1,3 +1,9 @@
+[v0.5 changelog 27.AUG.2017]
+———————————————————————————-
++ debug button added (activates debug log)
++ minor fixes
+
+
 [v0.4 changelog 19.AUG.2017]
 ———————————————————————————-
 + drone verify code reworked
