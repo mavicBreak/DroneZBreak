@@ -1,3 +1,11 @@
+[v0.6 changelog 28.AUG.2017]
+———————————————————————————-
++ Anti-rollback fix for Spark fw .600 and probably for other drones thx to Kilrah
++ Mavic RC firmware upgrade not always starting fixed
++ Goggles firmware upgrade DUML packets fixed
++ minor fixes
+
+
 [v0.5 changelog 27.AUG.2017]
 ———————————————————————————-
 + debug button added (activates debug log)
