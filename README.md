@@ -21,9 +21,11 @@ Change flight controller parameters of DJI Drones and upgrade/downgrade firmware
 + Firmware Flashing Utility with progress bar actively monitoring the process
 + One click download & decrypt upgrade log file
 
-**Note**
+**Notes**
 
-DroneZBreak is fail-safe. In case of application crash or bug during the firmware flashing or parameter setting the device is safe. The operation continues on the device itself regardless of the USB cable connection or application state.
+DroneZBreak is fail-safe. In case of application crash during firmware or parameter flashing your device is safe. The operation continues on the device itself regardless of the USB cable connection or application state.
+
+If your drone firmware can not be detected upon startup and DroneZBreak gives an error one case might be because your firewall (like LittleSnitch) is blocking DJI Assistant outgoing connections therefore it is blocking the communication with your drone upgrade service. Thx for marck1991 doing a lot of tests to figure this out.
 
 **Links:**
 
