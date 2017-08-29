@@ -1,9 +1,11 @@
 # DroneZBreak 
 by mavicBreak
+Change flight controller parameters of DJI Drones and upgrade/downgrade firmware natively on OSX
 
 <img src='https://i.imgur.com/aA7vjUC.png' />
 
-Change flight controller parameters of DJI Drones and upgrade/downgrade firmware natively on OSX
+<img src='https://i.imgur.com/23Kl0lj.png' />
+
 
 **Supported macOS:** Sierra (OSX 10.12), El Capitan (OSX 10.11), might work on Yosemite (OSX 10.10)
 
