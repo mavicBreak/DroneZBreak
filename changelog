@@ -1,3 +1,10 @@
+[v0.7 changelog 29.AUG.2017]
+———————————————————————————-
++ some crash fix
++ interface & instruction clarification
++ minor code tweaks
+
+
 [v0.6 changelog 28.AUG.2017]
 ———————————————————————————-
 + Anti-rollback fix for Spark fw .600 and probably for other drones thx to Kilrah
