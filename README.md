@@ -24,11 +24,29 @@ Change flight controller parameters of DJI Drones and upgrade/downgrade firmware
 + Firmware Flashing Utility with progress bar actively monitoring the process
 + One click download & decrypt upgrade log file
 
-**Notes**
+**Notes:**
 
 DroneZBreak is fail-safe. In case of application crash during firmware or parameter flashing your device is safe. The operation continues on the device itself regardless of the USB cable connection or application state.
 
 If your drone firmware can not be detected upon startup and DroneZBreak gives an error one case might be because your firewall (like LittleSnitch) is blocking DJI Assistant outgoing connections therefore it is blocking the communication with your drone upgrade service. Thx for marck1991 doing a lot of tests to figure this out.
+
+**How to use:**
+1) Launch DJI Assistant 2 (preferably 1.1.2 or older version) or let DroneZBreak to start it automatically upon launch. DJI Assistant can be minimized but must be running in the background.
+
+2) Power up your drone and connect it via USB. Wait a few seconds and the flight controller parameters are automatically recognized.
+
+3) Change the settings and click ‘Apply’.
+
+4) Hover the mouse over a UI element to get more details.
+
+5) If an option is disabled after connection established then it might not supported in your drone's current firmware. Open an issue here to get support.
+
+6) Normal+ and Sport+ options are predefined recommended maximum values for the corresponding modes by the developer.
+
+7) ‘Reset’ will set factory default values.
+
+8) Firmware Upgrade / Downgrade: use this option only with caution.
+
 
 **Links:**
 
