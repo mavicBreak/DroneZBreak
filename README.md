@@ -3,7 +3,7 @@ by mavicBreak
 
 Change flight controller parameters of DJI Drones and upgrade/downgrade firmware natively on OSX
 
-<img src='https://i.imgur.com/aA7vjUC.png' />
+<img src='https://i.imgur.com/ZVcBkkd.png' />
 
 <img src='https://i.imgur.com/23Kl0lj.png' />
 
@@ -22,6 +22,7 @@ Change flight controller parameters of DJI Drones and upgrade/downgrade firmware
 + Predefinied Normal+ and Sport+ modes
 + Parameters Factory Reset option
 + Firmware Flashing Utility with progress bar actively monitoring the process
++ Unlock drone if it is locked and forced to firmware upgrade
 + One click download & decrypt upgrade log file
 
 **Notes:**
@@ -64,4 +65,4 @@ https://nolimitdronez.com - Alternative solution for Windows users with excellen
 
 
 
-Thanks to hostile, the_lord, P0V, hdnes, jezzab, coldflake, freaky123, bin4ry and all the Slack members who spent countless effort and time to figure out all the stuff.
+Thanks to hostile, the_lord, P0V, hdnes, jezzab, kilrah, coldflake, freaky123, bin4ry and all the Slack members who spent countless effort and time to figure out all the stuff.
